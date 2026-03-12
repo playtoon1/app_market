@@ -1,0 +1,13 @@
+{
+    "apps": [
+        {
+            "id": "1",
+            "name": "Siden",
+            "icon": "https://raw.githubusercontent.com/playtoon1/app_market/cbf37c46766e0b7cc1203d4e810e676dd3b02792/icons/Siden_icon.png",
+            "description": "Siden A.Ş Uygulama Modülleri",
+            "size": 15.2,
+            "date": "2026-03-12",
+            "apkUrl": "https://drive.google.com/file/d/12eld9fj6V4Rx_ui9ApjA8sjT_5sXHEaW/view?usp=drive_link"
+        }
+    ]
+}
